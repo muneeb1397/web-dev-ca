@@ -4,6 +4,9 @@ A premium, fast, and accessible multi-page catalog application built with React 
 
 This project was built to satisfy the **CodingAtom Web Development Internship Assessment** specifications.
 
+<a href="https://example.com" target="_blank">Open Live Preview in New Tab</a>
+
+
 ---
 
 ## 🎨 Theme & Typography
